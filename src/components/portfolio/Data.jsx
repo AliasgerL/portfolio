@@ -8,7 +8,7 @@ const Data = [
     id: 1,
     image: Work1,
     title: "SnapKart",
-    link: "https://github.com/AliasgerL/Snap_Kart.git",
+    link: "https://aliasgerl.github.io/Snap_Kart/",
     category: ["react", "tailwind"],
     description:
       "Fully responsive ecommerce website with an attractive and interactive design.",
